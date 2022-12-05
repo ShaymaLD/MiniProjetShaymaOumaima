@@ -1,0 +1,17 @@
+
+<div class="container">
+    <h2 class="text-center">Gestion des livres</h2>
+    <form class="bordure"  [formGroup]="voituresForm">
+        <label> marque:</label>
+        <input type="text" class="form-control" formControlName="marque">
+        <label> modele:</label>
+        <input type="text" class="form-control" formControlName="modele">
+        <label> Prix:</label>
+        <input type="text" class="form-control" formControlName="prix" > <br>
+        <label>
+            <input type="checkbox" formControlName="nouveau" > Nouvelle Voiture
+        </label>
+        <br>
+        <button class="btn btn-dark"(click)="onAjoute()"> Ajouter</button>
+        <input type="reset" class="btn btn-secondary" value="Effacer" /> 
+    </form>

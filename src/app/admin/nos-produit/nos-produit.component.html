@@ -1,0 +1,23 @@
+
+ 
+
+<div  class="container">
+    <div class="row " >
+        <ng-container *ngFor="let l  of productList " >
+            <div class="card col-md-3" style="width: 500px;margin-left: 100px;">
+                <img src="{{l.image}}" alt="" style="height: 200px;width:350px">
+            <h5>  <a  [routerLink]="['proposDeNous',l.id]">{{l.modele}}</a></h5>   
+               <div ><input type="checkbox"  [checked]="l.nouveau" ><i [ngClass]="{' badge text-bg-dark':l.nouveau}">Nouveau</i> </div> 
+                <p><strong>Price: </strong>{{l.prix }}DT</p>
+                <input type="button" value="Supprimer" class="btn btn-info"  (click)="onsupprimer(l.id)">
+              
+            </div>
+          
+        </ng-container>
+
+    </div>
+    <div>
+   
+        <input type="button" value="modifier" class="btn btn-info" routerLink="/ajoutProd" >
+    </div>
+</div>
