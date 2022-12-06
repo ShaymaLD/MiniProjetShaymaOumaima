@@ -16,8 +16,11 @@ const routes: Routes = [
    children:[
     {path:'', redirectTo:'home', pathMatch:'full'},
     {path:'home', component:HomeComponent},
-    {path:'nosProduit', component:NosProduitComponent },
-    {path:"njoutProd",title:"ajoutProd",component:AjouterProduitComponent}
+    {path:'nosProduit' ,
+  children:[
+    {path:'',component:NosProduitComponent},
+    {path:"ajoutProd",title:"ajoutProd",component:AjouterProduitComponent}
+  ]}
    ]}
   ]}
   

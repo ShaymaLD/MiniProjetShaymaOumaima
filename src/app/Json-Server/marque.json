@@ -7,13 +7,12 @@
       "prix": 35.503,
       "id": 29,
       "nouveau": false,
-      "nbCyl":4,
-     
-      "energie":"Essence",
-      "puisFis":"5 cv",
-      "puiss":"184 ch",
-      "couple":"300 nm 1350 tr/min",
-      "cyl":"1998 CM³"
+      "nbCyl": 4,
+      "energie": "Essence",
+      "puisFis": "5 cv",
+      "puiss": "184 ch",
+      "couple": "300 nm 1350 tr/min",
+      "cyl": "1998 CM³"
     },
     {
       "marque": "bmw",
@@ -22,13 +21,12 @@
       "prix": 57.95,
       "id": 322,
       "nouveau": true,
-      "nbCyl":6,
-     
-      "energie":"Essence | hybride",
-      "puisFis":"15 cv",
-      "puiss":"113 ch",
-      "couple":"600 nm 1250 tr/min",
-      "cyl":"2998 CM³"
+      "nbCyl": 6,
+      "energie": "Essence | hybride",
+      "puisFis": "15 cv",
+      "puiss": "113 ch",
+      "couple": "600 nm 1250 tr/min",
+      "cyl": "2998 CM³"
     },
     {
       "marque": "bmw",
@@ -37,13 +35,12 @@
       "prix": 187.95,
       "id": 322,
       "nouveau": true,
-      "nbCyl":4,
-    
-      "energie":"Essence ",
-      "puisFis":"9 cv",
-      "puiss":"170 ch",
-      "couple":"250 nm 1500 tr/min",
-      "cyl":"1598 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "9 cv",
+      "puiss": "170 ch",
+      "couple": "250 nm 1500 tr/min",
+      "cyl": "1598 CM³"
     },
     {
       "marque": "bmw",
@@ -52,27 +49,27 @@
       "prix": 99.95,
       "id": 8,
       "nouveau": true,
-      "nbCyl":4,
-   
-      "energie":"Essence",
-      "puisFis":"11cv",
-      "puiss":"184 ch",
-      "couple":"290 nm 1350 tr/min",
-      "cyl":"1995 CM³"
+      "nbCyl": 4,
+      "energie": "Essence",
+      "puisFis": "11cv",
+      "puiss": "184 ch",
+      "couple": "290 nm 1350 tr/min",
+      "cyl": "1995 CM³"
     },
-    {  "marque": "bmw",
-    "modele": "BMW SÉRIE 2 GRAN COUPÉ",
-    "image": "https://catalogue.automobile.tn/big/2020/03/46357.webp?t=1",
-    "prix": 163.905,
-    "id": 8,
-    "nouveau": false,
-    "nbCyl":3,
- 
-    "energie":"Essence",
-    "puisFis":"8cv",
-    "puiss":"140 ch",
-    "couple":"220 nm 1850 tr/min",
-    "cyl":"1499 CM³"},
+    {
+      "marque": "bmw",
+      "modele": "BMW SÉRIE 2 GRAN COUPÉ",
+      "image": "https://catalogue.automobile.tn/big/2020/03/46357.webp?t=1",
+      "prix": 163.905,
+      "id": 8,
+      "nouveau": false,
+      "nbCyl": 3,
+      "energie": "Essence",
+      "puisFis": "8cv",
+      "puiss": "140 ch",
+      "couple": "220 nm 1850 tr/min",
+      "cyl": "1499 CM³"
+    },
     {
       "marque": "jeep",
       "modele": "JEEP COMPASS",
@@ -80,13 +77,12 @@
       "prix": 160,
       "id": 9,
       "nouveau": true,
-      "nbCyl":4,
-     
-      "energie":"Essence",
-      "puisFis":"8cv",
-      "puiss":"150 ch",
-      "couple":"210 nm 1560 tr/min",
-      "cyl":"1332 CM³"
+      "nbCyl": 4,
+      "energie": "Essence",
+      "puisFis": "8cv",
+      "puiss": "150 ch",
+      "couple": "210 nm 1560 tr/min",
+      "cyl": "1332 CM³"
     },
     {
       "marque": "jeep",
@@ -95,13 +91,12 @@
       "prix": 128,
       "id": 10,
       "nouveau": true,
-      "nbCyl":4,
-    
-      "energie":"Essence",
-      "puisFis":"8cv",
-      "puiss":"140 ch",
-      "couple":"230 nm 1750 tr/min",
-      "cyl":"1336 CM³"
+      "nbCyl": 4,
+      "energie": "Essence",
+      "puisFis": "8cv",
+      "puiss": "140 ch",
+      "couple": "230 nm 1750 tr/min",
+      "cyl": "1336 CM³"
     },
     {
       "marque": "jeep",
@@ -110,13 +105,12 @@
       "prix": 327,
       "id": 12,
       "nouveau": false,
-      "nbCyl":4,
-
-      "energie":"Essence",
-      "puisFis":"18cv",
-      "puiss":"272 ch",
-      "couple":"400 nm 3000 tr/min",
-      "cyl":"2000 CM³"
+      "nbCyl": 4,
+      "energie": "Essence",
+      "puisFis": "18cv",
+      "puiss": "272 ch",
+      "couple": "400 nm 3000 tr/min",
+      "cyl": "2000 CM³"
     },
     {
       "marque": "kia",
@@ -125,13 +119,12 @@
       "prix": 126.98,
       "id": 13,
       "nouveau": true,
-      "nbCyl":4,
-     
-      "energie":"Essence | hybride",
-      "puisFis":"5cv",
-      "puiss":"141 ch",
-      "couple":"260 nm 2000 tr/min",
-      "cyl":"1580 CM³"
+      "nbCyl": 4,
+      "energie": "Essence | hybride",
+      "puisFis": "5cv",
+      "puiss": "141 ch",
+      "couple": "260 nm 2000 tr/min",
+      "cyl": "1580 CM³"
     },
     {
       "marque": "kia",
@@ -140,13 +133,12 @@
       "prix": 119.98,
       "id": 14,
       "nouveau": true,
-      "nbCyl":4,
-      
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "kia",
@@ -155,13 +147,12 @@
       "prix": 267.98,
       "id": 15,
       "nouveau": true,
-      "nbCyl":4,
-      
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "kia",
@@ -170,13 +161,12 @@
       "prix": 121.98,
       "id": 17,
       "nouveau": true,
-      "nbCyl":4,
-    
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "peugeot",
@@ -185,13 +175,12 @@
       "prix": 108.99,
       "id": 18,
       "nouveau": true,
-      "nbCyl":4,
-  
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "peugeot",
@@ -200,13 +189,12 @@
       "prix": 54.99,
       "id": 19,
       "nouveau": false,
-      "nbCyl":4,
-   
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "peugeot",
@@ -215,13 +203,12 @@
       "prix": 83.74,
       "id": 20,
       "nouveau": false,
-      "nbCyl":4,
-
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "peugeot",
@@ -230,13 +217,12 @@
       "prix": 157.99,
       "id": 21,
       "nouveau": false,
-      "nbCyl":4,
-   
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "peugeot",
@@ -245,13 +231,12 @@
       "prix": 109.9,
       "id": 22,
       "nouveau": false,
-      "nbCyl":4,
-   
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "peugeot",
@@ -260,13 +245,12 @@
       "prix": 147.9,
       "id": 23,
       "nouveau": false,
-      "nbCyl":4,
-     
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "chery",
@@ -275,13 +259,12 @@
       "prix": 98.5,
       "id": 26,
       "nouveau": false,
-      "nbCyl":4,
-   
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "chery",
@@ -290,13 +273,12 @@
       "prix": 129.5,
       "id": 27,
       "nouveau": false,
-      "nbCyl":4,
-  
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "chery",
@@ -305,13 +287,12 @@
       "prix": 99.5,
       "id": 28,
       "nouveau": false,
-      "nbCyl":4,
-    
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "chery",
@@ -320,13 +301,12 @@
       "prix": 63.8,
       "id": 29,
       "nouveau": false,
-      "nbCyl":4,
- 
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "marcedes",
@@ -335,13 +315,12 @@
       "prix": 242,
       "id": 30,
       "nouveau": false,
-      "nbCyl":4,
-     
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "marcedes",
@@ -350,13 +329,12 @@
       "prix": 179,
       "id": 31,
       "nouveau": false,
-      "nbCyl":4,
-     
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "marcedes",
@@ -365,13 +343,12 @@
       "prix": 210,
       "id": 32,
       "nouveau": false,
-      "nbCyl":4,
-    
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "marcedes",
@@ -380,13 +357,12 @@
       "prix": 430,
       "id": 33,
       "nouveau": false,
-      "nbCyl":4,
-   
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "marcedes",
@@ -395,13 +371,12 @@
       "prix": 308,
       "id": 34,
       "nouveau": false,
-      "nbCyl":4,
-     
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "marcedes",
@@ -410,13 +385,12 @@
       "prix": 323,
       "id": 35,
       "nouveau": false,
-      "nbCyl":4,
-    
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "toyota",
@@ -425,13 +399,12 @@
       "prix": 136,
       "id": 36,
       "nouveau": false,
-      "nbCyl":4,
-    
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "toyota",
@@ -440,13 +413,12 @@
       "prix": 79,
       "id": 37,
       "nouveau": false,
-      "nbCyl":4,
-   
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "toyota",
@@ -455,13 +427,12 @@
       "prix": 161.9,
       "id": 38,
       "nouveau": false,
-      "nbCyl":4,
-    
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "toyota",
@@ -470,13 +441,12 @@
       "prix": 324.9,
       "id": 39,
       "nouveau": false,
-      "nbCyl":4,
-    
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "toyota",
@@ -485,13 +455,12 @@
       "prix": 273.347,
       "id": 39,
       "nouveau": false,
-      "nbCyl":4,
-     
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "ford",
@@ -500,13 +469,12 @@
       "prix": 74.8,
       "id": 40,
       "nouveau": false,
-      "nbCyl":4,
-    
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "ford",
@@ -515,13 +483,12 @@
       "prix": 89.99,
       "id": 41,
       "nouveau": true,
-      "nbCyl":4,
-     
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "ford",
@@ -530,13 +497,12 @@
       "prix": 114.99,
       "id": 42,
       "nouveau": false,
-      "nbCyl":4,
-   
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "ford",
@@ -545,13 +511,12 @@
       "prix": 179.3,
       "id": 44,
       "nouveau": false,
-      "nbCyl":4,
-    
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "ford",
@@ -560,13 +525,12 @@
       "prix": 293.3,
       "id": 45,
       "nouveau": false,
-      "nbCyl":4,
-     
-      "energie":"Essence ",
-      "puisFis":"6 cv",
-      "puiss":"143 ch",
-      "couple":"282 nm 1980 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "6 cv",
+      "puiss": "143 ch",
+      "couple": "282 nm 1980 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "ford",
@@ -575,13 +539,12 @@
       "prix": 82.5,
       "id": 46,
       "nouveau": false,
-      "nbCyl":4,
-      
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"120 ch",
-      "couple":"350 nm 1866 tr/min",
-      "cyl":"1220 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "120 ch",
+      "couple": "350 nm 1866 tr/min",
+      "cyl": "1220 CM³"
     },
     {
       "marque": "ford",
@@ -590,13 +553,12 @@
       "prix": 82.5,
       "id": 46,
       "nouveau": false,
-      "nbCyl":4,
-    
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"620 nm 2170 tr/min",
-      "cyl":"1620 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "620 nm 2170 tr/min",
+      "cyl": "1620 CM³"
     },
     {
       "marque": "suzuki",
@@ -605,13 +567,12 @@
       "prix": 38.65,
       "id": 48,
       "nouveau": false,
-      "nbCyl":4,
-     
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "suzuki",
@@ -620,13 +581,12 @@
       "prix": 52.4,
       "id": 49,
       "nouveau": true,
-      "nbCyl":4,
-   
-      "energie":"Essence ",
-      "puisFis":"5 cv",
-      "puiss":"123 ch",
-      "couple":"242 nm 1803 tr/min",
-      "cyl":"1400 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "5 cv",
+      "puiss": "123 ch",
+      "couple": "242 nm 1803 tr/min",
+      "cyl": "1400 CM³"
     },
     {
       "marque": "suzuki",
@@ -635,13 +595,12 @@
       "prix": 51.5,
       "id": 50,
       "nouveau": false,
-      "nbCyl":4,
-    
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "suzuki",
@@ -650,13 +609,12 @@
       "prix": 52.5,
       "id": 51,
       "nouveau": false,
-      "nbCyl":4,
-     
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"172 ch",
-      "couple":"630 nm 1700 tr/min",
-      "cyl":"1230 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "172 ch",
+      "couple": "630 nm 1700 tr/min",
+      "cyl": "1230 CM³"
     },
     {
       "marque": "suzuki",
@@ -665,13 +623,12 @@
       "prix": 61.9,
       "id": 52,
       "nouveau": false,
-      "nbCyl":4,
-     
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "suzuki",
@@ -680,13 +637,12 @@
       "prix": 75.9,
       "id": 53,
       "nouveau": true,
-      "nbCyl":4,
-    
-      "energie":"Essence ",
-      "puisFis":"5 cv",
-      "puiss":"125 ch",
-      "couple":"262 nm 1506 tr/min",
-      "cyl":"1450 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "5 cv",
+      "puiss": "125 ch",
+      "couple": "262 nm 1506 tr/min",
+      "cyl": "1450 CM³"
     },
     {
       "marque": "suzuki",
@@ -695,13 +651,12 @@
       "prix": 78.9,
       "id": 54,
       "nouveau": false,
-      "nbCyl":4,
-     
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"140 ch",
-      "couple":"242 nm 1500 tr/min",
-      "cyl":"1350 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "140 ch",
+      "couple": "242 nm 1500 tr/min",
+      "cyl": "1350 CM³"
     },
     {
       "marque": "suzuki",
@@ -710,13 +665,12 @@
       "prix": 97.4,
       "id": 55,
       "nouveau": false,
-      "nbCyl":4,
-     
-      "energie":"Essence ",
-      "puisFis":"8 cv",
-      "puiss":"146 ch",
-      "couple":"280 nm 1566 tr/min",
-      "cyl":"1530 CM³"
+      "nbCyl": 4,
+      "energie": "Essence ",
+      "puisFis": "8 cv",
+      "puiss": "146 ch",
+      "couple": "280 nm 1566 tr/min",
+      "cyl": "1530 CM³"
     }
   ]
 }

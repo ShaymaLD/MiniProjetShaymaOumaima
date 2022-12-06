@@ -8,9 +8,12 @@
         <input type="text" class="form-control" formControlName="modele">
         <label> Prix:</label>
         <input type="text" class="form-control" formControlName="prix" > <br>
+        <label>Donner le lien de l'image:</label>
+        <input class="form-control" type="text" formControlName="image" ><br>
         <label>
             <input type="checkbox" formControlName="nouveau" > Nouvelle Voiture
         </label>
+       
         <br>
         <button class="btn btn-dark"(click)="onAjoute()"> Ajouter</button>
         <input type="reset" class="btn btn-secondary" value="Effacer" /> 

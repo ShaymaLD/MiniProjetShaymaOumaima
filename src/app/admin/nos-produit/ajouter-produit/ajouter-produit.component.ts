@@ -22,9 +22,11 @@ export class AjouterProduitComponent implements OnInit {
       marque:[''],
       modele:[''],
       nouveau:[''],
+      image:[''],
     })
   }
   onAjoute(){this.prod.addVoiture(this.voituresForm.value).subscribe(dd=>this. productList.push(dd));
+    alert('ajout en succée');
   }
 
 }
